@@ -1,7 +1,7 @@
 # Matplotlib-Challenge
 Matplotlib Challenge - Assignment 5
-Your tasks are to do the following:
 
+Your tasks are to do the following:
 
 Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
